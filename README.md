@@ -1,0 +1,1 @@
+This is Hakan's first git project!
